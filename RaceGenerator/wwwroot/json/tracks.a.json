@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Lanier"
+  },
+  {
+    "name": "Okayama",
+    "layouts": [
+      { "name": "Full" },
+      { "name": "Short"}
+    ]
+  },
+  {
+    "name": "Lime Rock",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "Classic" },
+      { "name": "Chicanes" },
+      { "name": "West Bend Chicane" }
+    ]
+  },
+  {
+    "name": "Silverstone (Free)",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "International" },
+      { "name": "Southern" },
+      { "name": "National" }
+    ]
+  },
+  {
+    "name": "Concord"
+  },
+  {
+    "name": "Daytona 07",
+    "layouts": [
+      { "name": "Road" },
+      { "name": "Moto" },
+      { "name": "Oval" }
+    ]
+  },
+  {
+    "name": "Barcelona",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "Club" },
+      { "name": "National" },
+      { "name": "Historic" }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "layouts": [
+      { "name": "Road" },
+      { "name": "Oval" }
+    ]
+  },
+  {
+    "name": "South Boston"
+  },
+  {
+    "name": "VIR",
+    "layouts": [
+      { "name": "Full" },
+      { "name": "North" },
+      { "name": "Grand West" },
+      { "name": "Grand East" }
+    ]
+  },
+  {
+    "name": "Tsukuba",
+    "layouts": [
+      { "name": "2000 Full" },
+      { "name": "2000 Moto" }
+    ]
+  },
+  {
+    "name": "Spa"
+  },
+  {
+    "name": "Brand's Hatch",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "Indy"}
+    ]
+  },
+  {
+    "name": "Thompson"
+  },
+  {
+    "name": "Summit Point",
+    "layouts": [
+      { "name": "Full" },
+      { "name": "Short" }
+    ]
+  },
+  {
+    "name": "Pocono",
+    "layouts": [
+      { "name": "Oval" },
+      { "name": "International" }
+    ]
+  },
+  {
+    "name": "Laguna"
+  },
+  {
+    "name": "Michigan"
+  },
+  {
+    "name": "Twin Ring Motegi",
+    "layouts": [
+      { "name": "East" },
+      { "name": "GP" },
+      { "name": "West" },
+      { "name": "Oval" }
+    ]
+  },
+  {
+    "name": "Sonoma",
+    "layouts": [
+      { "name": "IRL" },
+      { "name": "Cup" },
+      { "name": "Cup Historic" }
+    ]
+  },
+  {
+    "name": "Texas",
+    "layouts": [
+      { "name": "Oval" },
+      { "name": "Road Combined" },
+      { "name": "Infield Road" }
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "layouts": [
+      { "name": "Oval" },
+      { "name": "Road" }
+    ]
+  },
+  {
+    "name": "Oxford Plains"
+  },
+  {
+    "name": "Sebring",
+    "layouts": [
+      { "name": "International" },
+      { "name": "Club" },
+      { "name": "Modified" }
+    ]
+  },
+  {
+    "name": "USA International"
+  },
+  {
+    "name": "Oran Park",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "Moto" },
+      { "name": "South" }
+    ]
+  },
+  {
+    "name": "Oulton Park",
+    "layouts": [
+      { "name": "International" },
+      { "name": "Fosters W/Hislop" },
+      { "name": "Island Historic" },
+      { "name": "Int'l No Chicane" }
+    ]
+  },
+  {
+    "name": "Irwindale",
+    "layouts": [
+      { "name": "Oval" },
+      { "name": "Figure 8" }
+
+    ]
+  },
+  {
+    "name": "Long Beach"
+  }
+]

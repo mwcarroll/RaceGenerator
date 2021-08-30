@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Lanier"
+  },
+  {
+    "name": "Okayama",
+    "layouts": [
+      { "name": "Short" }
+    ]
+  },
+  {
+    "name": "Lime Rock",
+    "layouts": [
+      { "name": "GP" },
+      { "name": "Classic" },
+      { "name": "Chicanes" },
+      { "name": "West Bend Chicane" }
+    ]
+  },
+  {
+    "name": "Concord"
+  },
+  {
+    "name": "Daytona 07",
+    "layouts": [
+      { "name": "Short" }
+    ]
+  },
+  {
+    "name": "Barcelona",
+    "layouts": [
+      { "name": "Club" }
+    ]
+  },
+  {
+    "name": "South Boston"
+  },
+  {
+    "name": "VIR",
+    "layouts": [
+      { "name": "South" }
+    ]
+  },
+  {
+    "name": "Tsukuba",
+    "layouts": [
+      { "name": "2000 Short" },
+      { "name": "1000 Full" },
+      { "name": "1000 Outer" }
+    ]
+  },
+  {
+    "name": "Brand's Hatch",
+    "layouts": [
+      { "name": "Indy" }
+    ]
+  },
+  {
+    "name": "Thompson"
+  },
+  {
+    "name": "Summit Point",
+    "layouts": [
+      { "name": "Jefferson" },
+      { "name": "Short" }
+    ]
+  },
+  {
+    "name": "Twin Ring Motegi",
+    "layouts": [
+      { "name": "West Road" }
+    ]
+  },
+  {
+    "name": "Sonoma"
+  },
+  {
+    "name": "Texas",
+    "layouts": [
+      { "name": "Legends Oval" },
+      { "name": "Road Course Long" }
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "layouts": [
+      { "name": "Legends Oval" },
+      { "name": "LRC Short" },
+      { "name": "LRC Medium" },
+      { "name": "LRC Long" }
+
+    ]
+  },
+  {
+    "name": "Oxford Plains"
+  },
+  {
+    "name": "Sebring",
+    "layouts": [
+      { "name": "Club" }
+    ]
+  },
+  {
+    "name": "USA International"
+  },
+  {
+    "name": "Oran Park",
+    "layouts": [
+      { "name": "North Circuit" },
+      { "name": "North A" },
+      { "name": "North B" }
+    ]
+  },
+  {
+    "name": "Irwindale",
+    "layouts": [
+      { "name": "Figure 8" }
+
+    ]
+  }
+]

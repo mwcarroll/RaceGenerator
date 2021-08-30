@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">RaNdOm!</h1>
+    <p>
+        Car: @Model.randomCar.Name<br />
+        Track: @Model.randomTrack.Name<br />
+        Layout: @Model.randomLayout.Name<br />
+        Start Type: @Model.randomStartType.ToString()<br />
+        Start Time: @Model.randomTimeOfDay
+    </p>
+</div>
